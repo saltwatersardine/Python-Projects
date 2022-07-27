@@ -15,5 +15,5 @@ if option1 == "left":
         else:
     else:
       print("You get attacked by an angry trout. Game Over.")
-  else:
+else:
     print("You fell into a hole. Game Over.")
